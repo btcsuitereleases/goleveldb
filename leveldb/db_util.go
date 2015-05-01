@@ -7,11 +7,11 @@
 package leveldb
 
 import (
-	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
-	"github.com/btcsuite/goleveldb/leveldb/storage"
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/btcsuitereleases/goleveldb/leveldb/errors"
+	"github.com/btcsuitereleases/goleveldb/leveldb/iterator"
+	"github.com/btcsuitereleases/goleveldb/leveldb/opt"
+	"github.com/btcsuitereleases/goleveldb/leveldb/storage"
+	"github.com/btcsuitereleases/goleveldb/leveldb/util"
 )
 
 // Reader is the interface that wraps basic Get and NewIterator methods.

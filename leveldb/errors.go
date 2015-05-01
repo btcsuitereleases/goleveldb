@@ -7,7 +7,7 @@
 package leveldb
 
 import (
-	"github.com/btcsuite/goleveldb/leveldb/errors"
+	"github.com/btcsuitereleases/goleveldb/leveldb/errors"
 )
 
 var (

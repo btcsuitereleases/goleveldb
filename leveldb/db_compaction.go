@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/memdb"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
+	"github.com/btcsuitereleases/goleveldb/leveldb/errors"
+	"github.com/btcsuitereleases/goleveldb/leveldb/memdb"
+	"github.com/btcsuitereleases/goleveldb/leveldb/opt"
 )
 
 var (
